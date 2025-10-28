@@ -1,1 +1,1 @@
-Here goes the  intranet API tasks.
+Here goes the intranet API tasks.
