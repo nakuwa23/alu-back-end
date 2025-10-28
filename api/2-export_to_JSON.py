@@ -45,7 +45,7 @@ if __name__ == "__main__":
         }
         tasks_list.append(task_dict)
 
-    json_data = {str(employee_id): tasks_list}
+    json_data = {employee_id: tasks_list}
 
     filename = "{}.json".format(employee_id)
 
